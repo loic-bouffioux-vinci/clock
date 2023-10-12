@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Clock of berlin",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "jasmine"
   },
@@ -11,4 +12,5 @@
   "devDependencies": {
     "jasmine": "^5.1.0"
   }
+  
 }

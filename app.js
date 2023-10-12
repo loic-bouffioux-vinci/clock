@@ -1,5 +1,6 @@
 export class Main{
-    clock(){
-        
+    BerlinClock(number){
+        if(number === 1) return 1;
     }
 }
+
